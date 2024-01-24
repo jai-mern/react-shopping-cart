@@ -1,0 +1,29 @@
+/* styles/ShoppingCart.css */
+.shopping-cart {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    background-color: greenyellow;
+}
+  
+.shopping-cart ul {
+    list-style: none;
+    padding: 0;
+}
+  
+.shopping-cart li {
+    margin-bottom: 5px;
+    color: yellowgreen;
+}
+  
+.shopping-cart button {
+    background-color: aqua;
+    color: orange;
+    padding: 3px 6px;
+    border: none;
+    cursor: pointer;
+}
+  
+.shopping-cart button:hover {
+    background-color:blue
+}
